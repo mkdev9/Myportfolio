@@ -11,13 +11,13 @@ import {
 } from "react-icons/di";
 import {
 
-  SiSolidity,
   SiPostgresql,
   SiAngular,
   SiDocker,
   SiCanva,
   SiUikit,
   SiSelenium,
+  SiJenkins,
 } from "react-icons/si";
 
 function Techstack() {
@@ -39,7 +39,7 @@ function Techstack() {
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
+        <SiJenkins />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
