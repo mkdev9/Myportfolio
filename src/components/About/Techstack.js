@@ -17,7 +17,7 @@ import {
   SiCanva,
   SiUikit,
   SiSelenium,
-  SiJenkins,
+  SiTensorflow,
 } from "react-icons/si";
 
 function Techstack() {
@@ -39,7 +39,7 @@ function Techstack() {
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiJenkins />
+        <SiTensorflow />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
